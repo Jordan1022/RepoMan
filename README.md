@@ -1,2 +1,6 @@
-# RepoMan
-Sally Saltwater loves the sea
+# Repo man
+
+This repository is 
+
+Key Concepts Learned
+- Bullet Point 1
